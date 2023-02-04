@@ -67,7 +67,7 @@ async def start_services():
  _____________________________________________   
 |                                             |  
 |          Deployed Successfully              |  
-|              Join @TechZBots                |
+|              Join @BOTXZX                |
 |_____________________________________________|
     """)
     await idle()
